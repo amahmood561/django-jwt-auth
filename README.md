@@ -52,7 +52,7 @@ http://127.0.0.1:8000/api/signup
 body:
 {
  "email":"test@gmail.com",
- "password":"Spring34!"
+ "password":""
 }
 
 http://127.0.0.1:8000/api/signin
